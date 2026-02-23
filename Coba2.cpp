@@ -4,11 +4,11 @@ using namespace std;
 int main()
 {
     int a, b, c;
-    cout << "Masukkan nilai 1: ";
+    cout << "Masukkan nilai ulangan 1: ";
     cin >> a;
-    cout << "Masukkan nilai 2: ";
+    cout << "Masukkan nilai ulangan 2: ";
     cin >> b;
-    cout << "Masukkan nilai 3: ";
+    cout << "Masukkan nilai ulangan 3: ";
     cin >> c;
 
     if (a > b && a > c) {
